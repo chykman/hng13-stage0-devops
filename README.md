@@ -5,6 +5,6 @@
   The simulation covers core infrastructure management including cloud provisioning, system maintenance, firewall configuration, and service monitoring.
   It also introduces deployment pipeline fundamentals by handling code deployment to the server, configuration management, and quality verification through
   accessibility testing.
-* http://52.45.64.137/
+* 52.45.64.137
 
 
